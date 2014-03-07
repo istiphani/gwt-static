@@ -1,0 +1,4 @@
+gwt-static
+==========
+
+Static HTML
