@@ -1,4 +1,4 @@
-gwt-static
-==========
+uwcp-gwt-static
+===============
 
-Static HTML
+Unified Web Content Policy - Government Web Template - Static
